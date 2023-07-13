@@ -14,7 +14,7 @@ import android.os.Bundle;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-    int halo = "Hello World";
+    int halo = "Hello Worlda";
     int s = 0;
     Button previewView, capture, toggleFlash;
     int cameraFacing = CameraSelector.LENS_FACING_BACK;
